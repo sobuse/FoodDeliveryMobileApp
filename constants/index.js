@@ -144,7 +144,7 @@ export const featured = {
                    image:  require('../assets/images/pizzaDish.png')
                 },
                 {
-                    image: require('../assets/images/')
+                    
                 }
             ]
     
